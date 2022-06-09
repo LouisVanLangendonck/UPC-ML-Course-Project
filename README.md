@@ -1,5 +1,5 @@
 # UPC-ML-Course-Project
-Course Project for Machine Learning Course 2022 at the Politechnical University of Catalunya (UPC). Authors are Alex Martorell and Louis Van Langendonck
+Course Project for Machine Learning Course 2022 at the Politechnical University of Catalunya (UPC). Authors are Alex Martorell and Louis Van Langendonck. The full report can be found in the repository under the name of ..????
 
 ## Project Statement
 For this study, the 2020 New York City Police Department (NYPD) Stop, Question and Frisk Data Set is used. It can be found at https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page. The data set considers a practice in New York City called "Stop, Question and Frisk". This widely known procedure consists of an officer stopping a person whenever there is a suspicion that a crime is being committed, sometimes followed by an arrest or a frisk (passing the hands over someone in a search for hidden items). According to NYPD regulations, for each stopping action a Police Officer completes, he or she must report it by filling in a UF-250 form. The filled out forms of the year 2020 constitute this data set. 
